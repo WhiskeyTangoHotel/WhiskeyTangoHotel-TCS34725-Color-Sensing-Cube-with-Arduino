@@ -1,4 +1,4 @@
-# WhiskeyTangoHotel-TCS34725-Color-Sensing-Cube-with-Arduino
+# TCS34725-Color-Sensing-Cube-with-Arduino
 
 Whatever color the TCS34725 sensor "sees" is reproduced on the RGB orb on top of the cube.
 
